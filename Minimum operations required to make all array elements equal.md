@@ -8,7 +8,7 @@ For example, assume the starting distribution is [1, 1, 5]. She can give 2 bars 
 
 Given a starting distribution, calculate the minimum number of operations needed so that every colleague has the same number of chocolates.
 
-Function Description
+## Function Description
 
 Complete the equal function in the editor below. It should return an integer that reperesents the minimum number of operations required.
 
