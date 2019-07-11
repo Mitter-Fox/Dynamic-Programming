@@ -5,7 +5,7 @@ Can you determine the number of ways of making change for a particular number of
 For example, if you have 4 types of coins, and the value of each type is given as 8, 3, 1, 2 respectively. 
 You can make change for 3 units in three ways:
 {1, 1, 1}, {1, 2}, and {3}.
-
+ 
 Function Description
 
 Complete the getWays function in the editor below. It must return an integer denoting the number of ways to make change.
