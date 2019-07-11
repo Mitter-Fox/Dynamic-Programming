@@ -85,4 +85,4 @@ Thus, we print **5** as our answer.
 2. [Understanding Coin Change: GeeksForGeeks](https://www.geeksforgeeks.org/understanding-the-coin-change-problem-with-dynamic-programming/)
 3. [The Coin Change Problem: Hackerrank](https://www.hackerrank.com/challenges/coin-change/problem)
 
-@@Rohit Mitra@@
+@ Rohit Mitra
