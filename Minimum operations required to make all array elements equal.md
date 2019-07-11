@@ -34,7 +34,7 @@ Number of initial chocolates each colleague has <1000
 Print the minimum number of operations needed for each test case, one to a line.
 
 ## Sample Input
-
+ 
 1
 4
 2 2 3 7
