@@ -65,3 +65,11 @@ Add  to the last two elements -> [15, 14, 14]
 Add  to the last two elements -> [15, 15, 15]
 
 Three operations were required.
+
+# Solution Hint:
+
+##Things we need to think about it now:
+1. Subtracting from 1 = Adding to all but 1
+2. You can get any number due to +1 operation.
+3. We should aim for the minimum numbers.
+4. Sometimes the minimum will not be optimal, butbut it will be somewhere between min and min = 4.
