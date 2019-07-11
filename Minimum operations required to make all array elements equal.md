@@ -24,8 +24,8 @@ Each test case has **2** lines.
 - The second line contains *_n_* space-separated integers denoting the number of chocolates each colleague has.
 
 ## Constraints
-*1 <= t <= 100*
-*1 <= n <= 1000*
+- *1 <= t <= 100*
+- *1 <= n <= 1000*
 
 Number of initial chocolates each colleague has <1000
 
