@@ -60,6 +60,7 @@ There are four ways to make change for 4 using coins with values given by
 2. **{1, 1, 2}**
 3. **{2, 2}**
 4. **{1, 3}**
+
 Thus, we print **4** as our answer.
 
 #### Sample Input 1
@@ -78,6 +79,7 @@ There are five ways to make change for 10 units using coins with values given by
 3. **{2, 3, 5}**
 4. **{5, 5}**
 5. **{2, 2, 6}**
+
 Thus, we print **5** as our answer.
 
 ##### To know  more, follow the links:
@@ -85,4 +87,4 @@ Thus, we print **5** as our answer.
 2. [Understanding Coin Change: GeeksForGeeks](https://www.geeksforgeeks.org/understanding-the-coin-change-problem-with-dynamic-programming/)
 3. [The Coin Change Problem: Hackerrank](https://www.hackerrank.com/challenges/coin-change/problem)
 
-@ Rohit Mitra
+@Rohit Mitra
