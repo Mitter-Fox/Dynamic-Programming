@@ -23,7 +23,7 @@ The second line contains m space-separated integers describing the respective va
 c(the list of distinct coins available in infinite amounts).
 
 Constraints
-
+ 
 Each  is guaranteed to be distinct.
 
 Hints
