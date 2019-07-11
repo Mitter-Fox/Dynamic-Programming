@@ -80,6 +80,6 @@ There are five ways to make change for 10 units using coins with values given by
 Thus, we print 5 as our answer.
 
 To know  more, follow the links
->https://www.geeksforgeeks.org/coin-change-dp-7/
->https://www.geeksforgeeks.org/understanding-the-coin-change-problem-with-dynamic-programming/
->https://www.hackerrank.com/challenges/coin-change/problem
+(https://www.geeksforgeeks.org/coin-change-dp-7/)
+(https://www.geeksforgeeks.org/understanding-the-coin-change-problem-with-dynamic-programming/)
+(https://www.hackerrank.com/challenges/coin-change/problem)
