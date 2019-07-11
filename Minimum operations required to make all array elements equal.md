@@ -68,7 +68,7 @@ Three operations were required.
 
 # Solution Hint:
 
-##Things we need to think about it now:
+## Things we need to think about it now:
 1. Subtracting from 1 = Adding to all but 1
 2. You can get any number due to +1 operation.
 3. We should aim for the minimum numbers.
