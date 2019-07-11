@@ -9,7 +9,7 @@ You can make change for 3 units in three ways:
 Function Description
 
 Complete the getWays function in the editor below. It must return an integer denoting the number of ways to make change.
-getWays has the following parameter(s):
+getWays has the following parameter(s): 
 
 n: an integer, the amount to make change for
 c: an array of integers representing available denominations
